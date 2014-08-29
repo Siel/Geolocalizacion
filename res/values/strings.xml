@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geolocalizacion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="lat">Latitud</string>
+    <string name="lon">"Longitud: "</string>
+    <string name="ubic">Ubicar</string>
+    <string name="search">"Ubicacion a buscar: "</string>
+    <string name="busca">Buscar</string>
+    <string name="title_activity_layout_menu">LayoutMenu</string>
+    <string name="textlat">lat</string>
+    <string name="textlong">long</string>
+    <string name="vacio"></string>
+    <string name="bas">"Buscar: "</string>
+
+</resources>
